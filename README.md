@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tairong</h1>
 <h3 align="center">A passionate AI developer from Taiwan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=106368030chentairong&label=Profile%20views&color=0e75b6&style=flat" alt="106368030chentairong" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=106368030chentairong" alt="106368030chentairong" /></a> </p>
+
 - 🔭 I’m currently holds the position **AI software engineer.**
 
 - 🌱 I’m currently learning **python, qt designer**
@@ -23,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=106368030chentairong&show_icons=true&locale=en" alt="106368030chentairong" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=106368030chentairong&" alt="106368030chentairong" /></p>
-
