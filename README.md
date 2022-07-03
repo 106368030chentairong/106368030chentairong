@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tairong</h1>
 <h3 align="center">A passionate AI developer from Taiwan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=106368030chentairong" alt="106368030chentairong" /></a> </p>
+- 🔭 I’m currently holds the position **AI software engineer.**
+
+- 🌱 I’m currently learning **python, qt designer**
+
+- 💬 Ask me about anything related to **Python/Javascript/keras/tensorflow or NLP/ASR/W2V**
+
+- 📫 How to reach me **t106368030@ntut.org.tw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=106368030chentairong&show_icons=true&locale=en&layout=compact" alt="106368030chentairong" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=106368030chentairong&show_icons=true&locale=en" alt="106368030chentairong" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=106368030chentairong&" alt="106368030chentairong" /></p>
 
